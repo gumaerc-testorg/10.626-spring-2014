@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: b06bfa4c-51cb-c135-2f53-c2b2f9f05768
 ---
@@ -133,7 +136,7 @@ Impedance I
 {{< tdopen >}}
 Impedance II
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 [2011 Lecture 6: Impedance of Electrode (PDF)]({{< baseurl >}}/resources/mit10_626s14_s11lec06)
 {{< tdclose >}}
 
@@ -364,13 +367,13 @@ Bazant, M. Z. "[Theory of Chemical Kinetics and Charge Transfer Based on Nonequi
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 20-21
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 [Electrochemical Phase Transformations (PDF - 1.5MB)]({{< baseurl >}}/resources/mit10_626_s14_lec20-21_ept)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
  Bai, P., D. A. Cogswell, et al. "[Suppression of Phase Separation in LiFePO4 Nanoparticles During Battery Discharge](http://Dx.doi.org/10.1021/nl202764f)." _Nano Letters_ 11, no. 11 (2011): 4890–96.
 {{< tdclose >}}
 

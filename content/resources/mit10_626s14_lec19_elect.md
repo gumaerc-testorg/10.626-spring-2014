@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information related to Electrocatalysis.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/10-626-electrochemical-energy-systems-spring-2014/6c628dd1022b311872b2ec116c3e8726_MIT10_626S14_Lec19_Elect.pdf
+file: /media/courses/10-626-electrochemical-energy-systems-spring-2014/6c628dd1022b311872b2ec116c3e8726_MIT10_626S14_Lec19_Elect.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 19: Electrocatalysis'
 uid: 6c628dd1-022b-3118-72b2-ec116c3e8726

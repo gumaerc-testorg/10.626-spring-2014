@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 31b5e045-7f07-4d78-3316-6fce83e772d3
 ---
@@ -52,20 +54,6 @@ None
 ### Offered
 
 Every spring semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Classroom with 23 moveable desks with arm tablets facing two blackboards. A small table and chair are positioned in front of the blackboard. An overhead projector is to the far left of the room.]({{< resource_file 3f66ab42-7694-b67b-b6d5-4a579347b962 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    Lectures were held in a classroom with moveable tablet armchair desks, blackboards, and an LCD projector.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
