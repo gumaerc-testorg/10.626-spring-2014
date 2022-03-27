@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: b110e107-aca1-a818-8327-eb868ff7909b
 resourcetype: Document
 title: 'Lecture 19: Electronic Contributions to OCV in Batteries and Solar Cells'
 uid: 9a43bb4a-cf25-ad0e-fef7-32ef46cb866a

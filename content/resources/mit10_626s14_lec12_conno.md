@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b06bfa4c-51cb-c135-2f53-c2b2f9f05768
 resourcetype: Document
 title: 'Lecture 12: Metal-acid batteries'
 uid: 385a5dad-5f19-aeb1-c6f4-6bab2b3877d4

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 67e04e11-2adc-a056-2c8f-734dc7b4d450
 resourcetype: Document
 title: 10.626 Midterm Exam
 uid: 4f41905d-f3cd-b30a-d79b-df28b042ea35

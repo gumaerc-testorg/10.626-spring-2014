@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b06bfa4c-51cb-c135-2f53-c2b2f9f05768
 resourcetype: Document
 title: 'Lecture 19: Electrocatalysis'
 uid: 6c628dd1-022b-3118-72b2-ec116c3e8726

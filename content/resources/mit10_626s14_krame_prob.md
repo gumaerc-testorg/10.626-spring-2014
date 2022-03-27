@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: b110e107-aca1-a818-8327-eb868ff7909b
 resourcetype: Document
 title: Escape from a Symmetric Trap
 uid: 76997a73-a1e9-c372-b1f5-f1ebf1dae00d

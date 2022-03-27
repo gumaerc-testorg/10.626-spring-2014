@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4dc4ad4f-d6be-5f1d-592f-3d30ac66faee
 resourcetype: Document
 title: Problem Set 5 - Transport
 uid: 8e20d279-f9b2-5f8a-050d-78041a426470

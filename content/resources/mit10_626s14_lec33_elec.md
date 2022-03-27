@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b06bfa4c-51cb-c135-2f53-c2b2f9f05768
 resourcetype: Document
 title: 'Lecture 33: Homogeneous Reaction Diffusion'
 uid: c6e8efc7-0792-1e1b-ca82-e104183e9928

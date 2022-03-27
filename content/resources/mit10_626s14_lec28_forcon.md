@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b06bfa4c-51cb-c135-2f53-c2b2f9f05768
 resourcetype: Document
 title: 'Lecture 28: Forced Convection (I)'
 uid: d0c51eb3-e2b4-6205-09bc-57a228dee0c8
