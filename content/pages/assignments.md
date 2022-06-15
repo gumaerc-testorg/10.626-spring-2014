@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the problem sets assigned for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -9,12 +10,12 @@ uid: 4dc4ad4f-d6be-5f1d-592f-3d30ac66faee
 
 There are a total of 5 problem sets. Collaboration with other students in the course is encouraged. Solutions are unavailable.
 
-[Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit10_626s14_pset_1_2014)
+{{% resource_link 0e17345f-816a-eeb0-f085-feef2879ba42 "Problem Set 1 (PDF)" %}}
 
-[Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit10_626s14_pset_2_2014)
+{{% resource_link f0051870-d26f-da1e-16e6-f09091416553 "Problem Set 2 (PDF)" %}}
 
-[Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit10_626s14_pset_3_2014)
+{{% resource_link 16491a15-ec34-7fbb-4e8e-160eec462f71 "Problem Set 3 (PDF)" %}}
 
-[Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit10_626s14_pset_4_2014)
+{{% resource_link c1859817-ae0e-f286-a055-be4b00b2076e "Problem Set 4 (PDF)" %}}
 
-[Problem Set 5 (PDF)]({{< baseurl >}}/resources/mit10_626s14_pset_5_revis)
+{{% resource_link 8e20d279-f9b2-5f8a-050d-78041a426470 "Problem Set 5 (PDF)" %}}
