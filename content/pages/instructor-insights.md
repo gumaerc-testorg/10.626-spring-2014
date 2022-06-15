@@ -1,21 +1,21 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 31b5e045-7f07-4d78-3316-6fce83e772d3
 ---
-
-Course Overview
----------------
+## Course Overview
 
 This page focuses on the course _10.626 Electrochemical Energy Systems_ as it was taught by Professor Martin Bazant in Spring 2014.
 
 Electrochemical Energy Systems consists of both graduate and undergraduate students. Students taking the graduate version complete additional assignments. Through lectures, readings, and problem sets, 10.626 introduces principles and mathematical models of electrochemical energy conversion and storage. Students study equivalent circuits, thermodynamics, reaction kinetics, transport phenomena, electrostatics, porous media, and phase transformations. In addition, this course includes applications to batteries, fuel cells, supercapacitors, and electrokinetics.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
@@ -27,10 +27,9 @@ One of the best outcomes of the class has been forming lasting relationships wit
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Interview
 
-_Below, Professor Martin Bazant describes various aspects of how he taught _10.626 Electrochemical Energy Systems_._
+_Below, Professor Martin Bazant describes various aspects of how he taught_ 10.626 Electrochemical Energy Systems.
 
 I created the class in 2009 as an attempt to synthesize theoretical electrochemistry across many disciplines with the goal of eventually writing a textbook on Electrochemical Physics, based on original notes and problems. I chose energy as the cross-cutting theme because there is tremendous interest in this field, also reflected in my own research on batteries, fuel cells and capacitors, but the course is organized around fundamental topics, such as thermodynamics, kinetics, electrostatics, and transport, that have many other applications. The subject fills a need at MIT and elsewhere for a quantitative course on electrochemical systems, especially relating to energy conversion.
 
@@ -38,14 +37,13 @@ I am self-taught in electrochemistry and originally trained as a theoretical phy
 
 The OCW notes were written by student “scribes” based on my lectures, as a homework assignment. I do this every year as a way to help the students cement their knowledge and to record what I teach for future classes, since there is no other textbook available (until I publish my own). The content varies each year to increase the overall coverage and depth of the full set of lecture notes, including many that are not on OCW.
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
 For graduate students: _10.50 Analysis of Transport Phenomena_ or permission of instructor
 
-For undergraduate students: [_10.302 Transport Processes_](/courses/10-302-transport-processes-fall-2004/)
+For undergraduate students: [_10.302 Transport Processes_](/courses/10-302-transport-processes-fall-2004)
 
 ### Requirements Satisfied
 
@@ -57,8 +55,7 @@ Every spring semester
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 The students' grades were based on the following activities:
 
@@ -68,10 +65,7 @@ The students' grades were based on the following activities:
 
 {{< anchor "studentinfo" >}}{{< /anchor >}}
 
-Student Information
--------------------
-
-![19 students took this class when it was offered in 2014.]({{< resource_file 8a7c362a-d689-4499-a8b6-51e43968d384 >}})
+## Student Information
 
 ### Enrollment
 
@@ -91,21 +85,18 @@ Most students and listeners are interested in electrochemical systems based on t
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-Lecture
--------
+### Lecture
 
 Three class sessions per week, each lasting one hour; 38 sessions total; mandatory attendance.
 
-Out of Class
-------------
+### Out of Class
 
 Activities such as:
 
-*   Readings
-*   Assignments
-*   Preparation for Exams
+- Readings
+- Assignments
+- Preparation for Exams
