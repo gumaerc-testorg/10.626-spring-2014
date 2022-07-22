@@ -5,6 +5,7 @@ file: /courses/10-626-electrochemical-energy-systems-spring-2014/4f41905df3cdb30
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 10.626 Midterm Exam
 uid: 4f41905d-f3cd-b30a-d79b-df28b042ea35
 ---
 This resource contains the information regarding midterm exam.
-

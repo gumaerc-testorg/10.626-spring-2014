@@ -5,6 +5,7 @@ file: /courses/10-626-electrochemical-energy-systems-spring-2014/6c628dd1022b311
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 19: Electrocatalysis'
 uid: 6c628dd1-022b-3118-72b2-ec116c3e8726
 ---
 This resource contains information related to Electrocatalysis.
-

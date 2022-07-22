@@ -5,6 +5,7 @@ file: /courses/10-626-electrochemical-energy-systems-spring-2014/f628ad3ef0e2f52
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 10.626 Final Exam
 uid: f628ad3e-f0e2-f528-a861-886adb943723
 ---
 This resource contains the information regarding final exam.
-
