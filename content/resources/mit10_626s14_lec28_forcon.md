@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to Forced Convection (I).
 file: /courses/10-626-electrochemical-energy-systems-spring-2014/d0c51eb3e2b4620509bc57a228dee0c8_MIT10_626S14_Lec28_ForCon.pdf
+file_size: 284098
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
