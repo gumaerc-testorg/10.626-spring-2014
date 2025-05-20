@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to Homogeneous Charge Transfer
   Kinetics.
-file: /ol-ocw-studio-app/courses/10-626-electrochemical-energy-systems-spring-2014/383ef68c31f77eefcefaf4737392f4f4_MIT10_626S14_Lec22_Homg.pdf
+file: /courses/10-626-electrochemical-energy-systems-spring-2014/383ef68c31f77eefcefaf4737392f4f4_MIT10_626S14_Lec22_Homg.pdf
 file_size: 283621
 file_type: application/pdf
 learning_resource_types:
