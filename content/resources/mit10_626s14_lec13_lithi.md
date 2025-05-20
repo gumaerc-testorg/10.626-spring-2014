@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to Lithium ion batteries.
-file: /ol-ocw-studio-app/courses/10-626-electrochemical-energy-systems-spring-2014/e87e16b891cb649be6032e375c30e322_MIT10_626S14_Lec13_Lithi.pdf
+file: /courses/10-626-electrochemical-energy-systems-spring-2014/e87e16b891cb649be6032e375c30e322_MIT10_626S14_Lec13_Lithi.pdf
 file_size: 1296781
 file_type: application/pdf
 learning_resource_types:

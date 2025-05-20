@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to Electrocatalysis.
-file: /ol-ocw-studio-app/courses/10-626-electrochemical-energy-systems-spring-2014/6c628dd1022b311872b2ec116c3e8726_MIT10_626S14_Lec19_Elect.pdf
+file: /courses/10-626-electrochemical-energy-systems-spring-2014/6c628dd1022b311872b2ec116c3e8726_MIT10_626S14_Lec19_Elect.pdf
 file_size: 720146
 file_type: application/pdf
 learning_resource_types:
